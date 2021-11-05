@@ -1,6 +1,6 @@
 <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Raimeeab"> <img alt="GitHub License" src="https://img.shields.io/apm/l/vim-mode">  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Raimeeab/note-taker">  <img alt="GitHub Commit Activity" src="https://img.shields.io/github/commit-activity/w/Raimeeab/note-taker">
 
-# note-taker
+# Note Taker App
 ---
 ## Table of Content 
 
@@ -21,7 +21,13 @@
 <a name="technologies"></a>
 ## 🕹 Technologies used 
 
-- 
+- Express.js
+- JavaScript
+- NPM
+- HTML
+- CSS 
+- Bootstrap
+- Inquirer 
 
 <a name="installation"></a>
 ## ⚙️ Installation 
