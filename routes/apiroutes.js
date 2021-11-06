@@ -5,7 +5,6 @@ const uuid = require("../helpers/uuid");
 const {
     readFromFile, 
     writeToFile, 
-    readAndAppend
 } = require("../helpers/fsUtils");
 const { rawListeners } = require(".");
 const { readFileSync } = require("fs");
