@@ -30,6 +30,7 @@ app.get('/notes', function(req, res){
 });
 
 // GET Route for wildcard - page not found 
+// (From my understanding it's not common practice to get the wildcard to always lead to the homepage)
 app.get('*', function(req, res){
     res.sendFile(path.join(__dirname, './public/404.html'));
     res.status(404);
