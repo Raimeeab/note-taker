@@ -17,6 +17,11 @@
 ## 📝 Description
 This Express.js app is designed to add, save and delete notes. The purpose of this project is to test my knowledge with express.js, npm and learn how helpers assist with calling your apis. 
 
+![app-demo](./demos/app-demo.gif)
+
+
+You can find a deployed link [here](https://intense-escarpment-28895.herokuapp.com/)
+
 <a name="technologies"></a>
 ## 🕹 Technologies used 
 
@@ -40,9 +45,9 @@ This Express.js app is designed to add, save and delete notes. The purpose of th
     - `npm install`
     - `npm run start`
 
-![install]()
+3. Once this is done, click on the link provided in your terminal, or use the link provided above.
 
-3. Once this is done, be sure to click on the link provided in your terminal.
+![install](./demos/install.gif)
 
 <a name="usage"></a>
 ## 🖥 Usage 
