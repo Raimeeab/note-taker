@@ -31,7 +31,7 @@ This Express.js app is designed to add, save and delete notes. The purpose of th
 
 1. Git clone this repository onto your local machine and navigate to the file on your terminal. *This can also be done by opening the file on Visual Studios and running it through the intergated terminal.*
 
-![git-clone]()
+![git-clone](./demos/git-clone.gif)
 
 2. In order for the app to function correctly, ensure you have the latest or most stable version of Node.js and that you've run:
 
