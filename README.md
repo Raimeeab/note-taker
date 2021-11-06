@@ -22,6 +22,8 @@ This Express.js app is designed to add, save and delete notes. The purpose of th
 
 - Express.js
 - JavaScript
+- Heroku
+- Nodenom 
 - NPM
 - HTML
 - CSS 
