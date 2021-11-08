@@ -16,9 +16,7 @@ router.get('/', function(req, res){
 
 router.post('/', function(req, res){
     // save notes to db.json
-    // read file, 
-    // then add new data to array
-    // then save array as file (overwrite when using writeFile)
+    // read file, add new data to array and then save array as file 
     readFromFile("./db/db.json", { encoding: "utf-8" }, (err, data) => {
         if (err) {
             console.log("Error writing file");
@@ -35,7 +33,7 @@ router.post('/', function(req, res){
     });
 });
 
-//READ database, find note you want to delete and then delete it 
+//READ database, find selected note and then delete it 
 router.delete('/:id', function(req, res){
     readFromFile("./db/db.json", { encoding: "utf-8" }, (err, data) => {
         if (err){
